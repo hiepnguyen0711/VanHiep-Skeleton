@@ -18,7 +18,7 @@ Sau đó các bạn **khởi tạo** bằng cách gọi hàm  `initializeV
             initializeVHSkeleton();
        });
     </script>
-Hướng dẫn Sử dụng:
+### Hướng dẫn Sử dụng:
 - Đối với hình ảnh: Thêm thẻ `<div>` có class "**vh-skeleton vh-skeleton-image**" trước thẻ `<img>` hình ảnh, ví dụ code dưới    `<div class="vh-skeleton vh-skeleton-image"></div>` :
 
 ```php
