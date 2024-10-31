@@ -50,3 +50,11 @@ Hướng dẫn Sử dụng:
 
 [![ảnh](https://i.imgur.com/uNUKMeD.png "ảnh")](https://i.imgur.com/uNUKMeD.png "ảnh")
 
+
+------------
+Link Facebook liên hệ: https://www.facebook.com/G.N.S.L.7/
+Nếu các bạn thấy hữu ích hãy donate tôi ly cà phê :smile:
+Số Tk: 0601 5576 3127
+Họ tên: NGUYEN VAN HIEP
+Ngân hàng : Sacombank
+Chi nhánh: PGD LÊ VĂN QUỚI
