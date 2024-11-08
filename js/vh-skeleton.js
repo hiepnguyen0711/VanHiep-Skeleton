@@ -42,15 +42,16 @@ function initializeVHSkeleton() {
     handleSkeletonLoad(selector);
   });
 }
-
+ 
 
 
 function initializeSkeletonOnScroll() {
   const skeletonItems = gsap.utils.toArray(".vh-skeleton-container-scroll");
   skeletonItems.forEach((item) => {
+    var item_trigger = $(item).find(".vh-skeleton-container-scroll-trigger");
     gsap.to(item, {
       scrollTrigger: {
-        trigger: ".vh-skeleton-container-scroll-trigger",
+        trigger: item_trigger,
         start: "top 75%",
         onEnter: () => {
           setTimeout(() => {
